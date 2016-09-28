@@ -5,3 +5,7 @@ Devise周りがよくわからず・・・以下苦戦
 * rails g device controllerを行ったのち、Author新規登録機能の実装
 
 この辺知りたいです><
+
+上記以外は一通り実装しました。
+※Authorモデルにデータ入れられなかったのでindex.html.erbは静的にauthorデータ書いちゃってます。
+
