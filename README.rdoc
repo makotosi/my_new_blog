@@ -2,7 +2,7 @@
 
 Devise周りがよくわからず・・・以下苦戦
 * Deviseで生成されたモデルAuthorsにMigrationスクリプトでnameやdescriptionなどカラム追加したはずだがAuthorsにrails cとかdb/seedsからデータ入れようとするとattribute errorになる
-* rails g device controllerを行ったのち、Author新規登録機能の実装
+* rails g device controllerまわりのカスタマイズ
 
 この辺知りたいです><
 
